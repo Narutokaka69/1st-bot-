@@ -1,6 +1,6 @@
 # Bot is under development
 cuz - # in This code i add. !mcstatus serverip 
-so it will create 2 Voice channels and show their server online/offline status and how many members are online, i haven't added unmonitor future
+so it will create 2 Voice channels and show their server online/offline status and how many members are online, i haven't added unmonitor feature
 you can use replit to use this bot
 edit, 
 .env file 
